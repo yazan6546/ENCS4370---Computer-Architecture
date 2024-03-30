@@ -35,7 +35,7 @@
       4. Delete an appointment: the user will provide the required information: day number, slot, and 
          type. If there are two slots of the same type, the program will delete the first one.
 
-### Example:
+### Examples:
 
     Set of test cases are provided where each functionality from the menu is tested and verified. For instance, 
     a new office hour is added at day 20 from 8 to 9. 
