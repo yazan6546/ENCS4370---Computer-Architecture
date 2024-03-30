@@ -1,13 +1,14 @@
 # ENCS4370---Computer-Architecture
 ## Project Description
 
-The objective of this assignment is to write a MIPS code for viewing, editing, and managing appointments 
-within a monthly calendar. The application provides users with a user-friendly interface to interact 
-with the calendar functionality, allowing them to add, edit, and view appointments for specific dates.
+    The objective of this assignment is to write a MIPS code for viewing, editing, and managing appointments 
+    within a monthly calendar. The application provides users with a user-friendly interface to interact 
+    with the calendar functionality, allowing them to add, edit, and view appointments for specific dates.
  
 ### Calendar Format:
 
-    The calendar will be stored in text file with the following format: 
+    The calendar will be stored in text file with the following format:
+    
        1. Each line represents a day 
        2. The line starts with an index indication the day in the month 
        3. The working day start from 8AM to 5PM. 
@@ -23,6 +24,7 @@ with the calendar functionality, allowing them to add, edit, and view appointmen
 ### Functionality:
 
     The program provides the following functionality: 
+    
       1. View the calendar: the program will let the user view the calendar per day or per set of days or for 
          a given slot in a given day. 
       2. View Statistics: number of lectures (in hours), number of OH (in hours), and the number of 
@@ -35,5 +37,5 @@ with the calendar functionality, allowing them to add, edit, and view appointmen
 
 ### Example:
 
-   Set of test cases are provided where each functionality from the menu is tested and verified. For instance, 
-   a new office hour is added at day 20 from 8 to 9. 
+    Set of test cases are provided where each functionality from the menu is tested and verified. For instance, 
+    a new office hour is added at day 20 from 8 to 9. 
