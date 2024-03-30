@@ -5,7 +5,7 @@ The objective of this assignment is to write a MIPS code for viewing, editing, a
 within a monthly calendar. The application provides users with a user-friendly interface to interact 
 with the calendar functionality, allowing them to add, edit, and view appointments for specific dates.
  
-####Calendar Format:
+### Calendar Format:
 
     The calendar will be stored in text file with the following format: 
        1. Each line represents a day 
@@ -20,7 +20,7 @@ with the calendar functionality, allowing them to add, edit, and view appointmen
           From 8 to 9 there is a lecture, from 10 to 12 reserved for an office hour, and from 12-2 for meeting. 
           The other slots are free. 
 
-####Functionality:
+### Functionality:
 
     The program provides the following functionality: 
       1. View the calendar: the program will let the user view the calendar per day or per set of days or for 
@@ -33,7 +33,7 @@ with the calendar functionality, allowing them to add, edit, and view appointmen
       4. Delete an appointment: the user will provide the required information: day number, slot, and 
          type. If there are two slots of the same type, the program will delete the first one.
 
-####Example:
+### Example:
 
    Set of test cases are provided where each functionality from the menu is tested and verified. For instance, 
    a new office hour is added at day 20 from 8 to 9. 
