@@ -17,7 +17,7 @@ The calendar will be stored in text file with the following format:
 5. To reserve a slot, provide the start and the end time with the type of appointments 
    separated by a comma. For example, the following line have the following appointments:
           
-11: 8-9 L, 10-12 OH, 12-2 M 
+   11: 8-9 L, 10-12 OH, 12-2 M 
           
 From 8 to 9 there is a lecture, from 10 to 12 reserved for an office hour, and from 12-2 
 for meeting. The other slots are free. 
@@ -32,9 +32,9 @@ The program provides the following functionality:
          of Meetings (in hour). In addition, the program will show the average lectures per day 
          and the ratio between total number of hours reserved for lectures and the total number 
          of hours reserved OH. 
-      3. Add a new appointment: the user will provide the required information: day number, slot, 
+3. Add a new appointment: the user will provide the required information: day number, slot, 
          and type. The program will check if there is a conflict with the existing appointments.  
-      4. Delete an appointment: the user will provide the required information: day number, slot, 
+4. Delete an appointment: the user will provide the required information: day number, slot, 
          and type. If there are two slots of the same type, the program will delete the first one.
 
 ### Examples:
